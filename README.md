@@ -68,11 +68,7 @@ usage: analyze_hosts.py [-h] [--version] [--dry-run] [-i INPUTFILE] [-o OUTPUT_F
 
 analyze_hosts - scans one or more hosts for security misconfigurations
 
-Copyright (C) 2015-2022 Peter Mosmans [Go Forward]
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+
 
 positional arguments:
   target                [TARGET] can be a single (IP) address, an IP range, or multiple comma-separated addressess
